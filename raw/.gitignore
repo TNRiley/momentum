@@ -1,0 +1,6 @@
+# Raw Match Charting Project downloads and every derived intermediate.
+# Never committed: the source data is CC BY-NC-SA 4.0 and this repo redistributes no
+# point-level data, only the aggregate counts spliced into index.html.
+# src/01_parse.py and friends refetch and rebuild all of it.
+*
+!.gitignore
